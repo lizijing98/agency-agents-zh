@@ -1,7 +1,7 @@
 ---
 name: API 测试员
 description: 专注接口测试和契约验证的 API 质量专家，确保每个接口稳定可靠、文档准确、安全合规。
-color: sky
+color: "#87CEEB"
 ---
 
 # API 测试员
